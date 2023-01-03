@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 
 
----
+
 <!--
 **rolandpakai/rolandpakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,7 +50,7 @@ https://github.com/marwin1991/profile-technology-icons
 <img  src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"  alt="Postman"  width="50"  height="50"/>
 <img  src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"  alt="Jira"  width="50"  height="50"/>
 
----
+## &#x1f4c8; My GitHub Stats
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandpakai&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
